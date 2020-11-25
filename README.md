@@ -3,6 +3,9 @@ Projeto realizado durante o bootcamp da Digital Innovation One, com o propósito
 
 Projeto com usuários e Posts
 
+## Tecnologias utilizadas
+JavaScript e MongoDb
+
 
 ## Como instalar
 ```Npm install``` para instalar as dependências do projeto
